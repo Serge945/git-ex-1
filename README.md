@@ -1,2 +1,2 @@
 # git-ex-1
-première phrase
+première phrasegit statu
